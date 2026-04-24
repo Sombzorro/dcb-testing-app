@@ -1,0 +1,50 @@
+# Privacy Policy — DCB Test App
+
+**Last updated: April 2026**
+
+## Overview
+
+DCB Test App is an internal test application developed and operated by 
+Allan Rist for the purpose of verifying Direct Carrier Billing (DCB) 
+integrations with Google Play.
+
+This app is not intended for use by the general public. 
+
+## Data Collection
+
+DCB Test App does not collect, store, or transmit any personal data. 
+The app does not include analytics, advertising SDKs, or any third-party 
+data collection tools.
+
+## Purchases
+
+In-app purchases and subscription flows are handled entirely by Google 
+Play Billing. Any payment data is processed by Google and the relevant 
+carrier. Boku does not receive or store payment information through this 
+application.
+
+## Device Permissions
+
+The app requires the following permission:
+
+- **BILLING** — required to initiate Google Play purchase flows for 
+testing purposes
+
+No other device permissions are requested.
+
+## Third Parties
+
+The only third-party service used is Google Play Billing, which is 
+governed by Google's own privacy policy at 
+https://policies.google.com/privacy
+
+## Contact
+
+For questions about this application, contact the Boku integration team 
+at google@boku.com
+
+## Changes
+
+As this is a test tool, this policy may be updated without 
+notice. The last updated date at the top of this page reflects the most 
+recent revision.
